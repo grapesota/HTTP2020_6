@@ -10,7 +10,7 @@ if(isset($_POST['post']))
 
 </head>
 <body>
-<form action="" metehod="post">
+<form action="" method="post">
     <input type="text" name="post">
     <input type="submit" value="submit">
 </form>
